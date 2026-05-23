@@ -1,4 +1,3 @@
-```md
 # Travel Buddy
 
 Multi-screen React Native app dengan React Navigation.
@@ -24,17 +23,16 @@ Multi-screen React Native app dengan React Navigation.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](hasil1.jpeg)
+<img src="./assets/hasil1.jpeg" width="250"/>
 
 ### Detail Screen
-![Detail Screen](hasil2.jpeg)
+<img src="./assets/hasil2.jpeg" width="250"/>
 
 ### Favorites Screen
-![Favorites Screen](hasil3.jpeg)
+<img src="./assets/hasil3.jpeg" width="250"/>
 
 ### Search Screen
-![Search Screen](hasil4.jpeg)
+<img src="./assets/hasil4.jpeg" width="250"/>
 
 ## Author
 Juan Moses Tambunan
-```
