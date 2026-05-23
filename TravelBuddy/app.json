@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Travel Buddy",
+    "slug": "travel-buddy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#00b894"
+    },
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#00b894"
+      }
+    }
+  }
+}
